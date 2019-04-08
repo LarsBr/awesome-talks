@@ -44,12 +44,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
 
 #### Object-Oriented Programming
-
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #### Functional Programming
-
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
 * [Functional Programming: What? Why? When?](https://vimeo.com/97514630) by **Robert C. Martin** [58:26]
@@ -69,8 +67,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** [33:05]
 
 #### Software Design
-
-* ✓[Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
+* ✓ [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [45:20]
 * [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** [54:43]
@@ -91,7 +88,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 
 #### Web Development
-
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 * [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** [01:00:52]
@@ -109,7 +105,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
 #### Test-Driven Development
-
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
@@ -121,7 +116,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
 
 #### Methodologies
-
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
 * [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]
@@ -138,7 +132,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 * [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
-* [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
+* ✓ [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
 
 #### Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
@@ -150,7 +144,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** [35:26]
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * ✓ [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
-* [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
+* ✓ [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
 * ✓ [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
 
